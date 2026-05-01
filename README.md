@@ -2,16 +2,16 @@
  
 > *Curiosity starts the project. Code finishes it. Everything in between is where I live.*
  
-I'm a Mechatronics Engineering student based in Germany who spends way too much time building things that probably didn't need to exist — but were really fun to make. I like sitting at the edge of hardware and software, where things get interesting and slightly chaotic.
+I'm a Mechatronics Engineering student based in Germany who spends way too much time building things that probably didn't need to exist - but were really fun to make. I like sitting at the edge of hardware and software, where things get interesting and slightly chaotic.
  
 Right now I'm into AI systems, robotics, and anything that involves making machines do useful (or cool) things. I built an AI voice assistant robot, wrote an entire speech pipeline, and somehow ended up creating animations in my free time.
  
-When I'm not coding, I'm probably reading about how something works — and then building it to actually find out.
+When I'm not coding, I'm probably reading about how something works - and then building it to actually find out.
  
 ---
 ### About
 
-Mechatronics Engineering student at THWS, Germany — specialising in intelligent systems, AI-integrated workflows, and embedded software development. I learn best by building things. Whether it's simulating sensor data, writing processing pipelines, building speech systems, or bringing animated characters to life — I enjoy the full arc from raw idea to working output. My projects sit at the intersection of engineering, data, and science.
+Mechatronics Engineering student at THWS, Germany - specialising in intelligent systems, AI-integrated workflows, and embedded software development. I learn best by building things. Whether it's simulating sensor data, writing processing pipelines, building speech systems, or bringing animated characters to life - I enjoy the full arc from raw idea to working output. My projects sit at the intersection of engineering, data, and science.
 
 ---
 
@@ -32,15 +32,15 @@ Mechatronics Engineering student at THWS, Germany — specialising in intelligen
 
 ### Projects
 
-**[CLARA — AI Voice Assistant Robot](https://github.com/bhuvanp5566)**
+**[CLARA - AI Voice Assistant Robot](https://github.com/bhuvanp5566)**
 `Python` `Vosk` `Piper` `LLM Integration`
-A fully integrated AI character built for a humanoid lab-assist robot. Architected the modular voice-interaction pipeline from scratch — offline STT, TTS synthesis, and event-driven wake-word activation. Handled character animation and collaborated across hardware, vision, and mechanical teams to wire the AI layer into the full system.
+A fully integrated AI character built for a humanoid lab-assist robot. Architected the modular voice-interaction pipeline from scratch - offline STT, TTS synthesis, and event-driven wake-word activation. Handled character animation and collaborated across hardware, vision, and mechanical teams to wire the AI layer into the full system.
 
 ---
 
 **[Speech Pipeline](https://github.com/bhuvanp5566)**
 `Python` `Vosk` `Piper`
-The standalone speech system that powers CLARA — developed independently before integration. Covers STT, TTS, and interaction handling end to end.
+The standalone speech system that powers CLARA - developed independently before integration. Covers STT, TTS, and interaction handling end to end.
 
 ---
 
@@ -52,7 +52,7 @@ A pipeline that simulates and monitors layer-by-layer sensor data from a Laser P
 
 **[Full-Stack TODO App](https://github.com/bhuvanp5566)**
 `Flask` `PostgreSQL` `SQLAlchemy` `Docker`
-A REST-based backend for structured task management with modular API endpoints and SQLAlchemy ORM — containerised with Docker for clean, reproducible deployment.
+A REST-based backend for structured task management with modular API endpoints and SQLAlchemy ORM - containerised with Docker for clean, reproducible deployment.
 
 ---
 
