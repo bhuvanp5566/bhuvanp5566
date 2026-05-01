@@ -17,5 +17,4 @@ The standalone speech pipeline that powers CLARA — developed independently bef
 L-PBF Process Monitoring
 A Python pipeline that simulates and monitors layer-by-layer sensor data from a Laser Powder Bed Fusion (metal 3D printing) process. Includes anomaly detection using the 3-sigma rule and a multi-panel process monitoring dashboard.
 
-Get In Touch
-Email: bhuvanputtaswamy3@gmail.com · GitHub: @bhuvanp5566
+ · GitHub: @bhuvanp5566
