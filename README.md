@@ -1,9 +1,14 @@
-<h1>Bhuvan Puttaswamy</h1>
-
-<p><em>Curiosity starts the project. Code finishes it. Everything in between is where I live.</em></p>
-
+## Hey, I'm Bhuvan 👋
+ 
+> *Curiosity starts the project. Code finishes it. Everything in between is where I live.*
+ 
+I'm a Mechatronics Engineering student based in Germany who spends way too much time building things that probably didn't need to exist — but were really fun to make. I like sitting at the edge of hardware and software, where things get interesting and slightly chaotic.
+ 
+Right now I'm into AI systems, robotics, and anything that involves making machines do useful (or cool) things. I built an AI voice assistant robot, wrote an entire speech pipeline, and somehow ended up creating animations in my free time.
+ 
+When I'm not coding, I'm probably reading about how something works — and then building it to actually find out.
+ 
 ---
-
 ### About
 
 Mechatronics Engineering student at THWS, Germany — specialising in intelligent systems, AI-integrated workflows, and embedded software development. I learn best by building things. Whether it's simulating sensor data, writing processing pipelines, building speech systems, or bringing animated characters to life — I enjoy the full arc from raw idea to working output. My projects sit at the intersection of engineering, data, and science.
